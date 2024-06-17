@@ -1,4 +1,4 @@
-### Hi There <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">, I am Maxwell Maleka!
+### Hi There <a href="#"><img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px" /></a>, I am Maxwell Maleka!
 
 
 ***
@@ -21,6 +21,6 @@ Part-time; I am studying Software Development Course with CodeSpace. The course 
 
 ### Github Stats:📈
 ***
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKMaleka)](https://github.com/anuraghazra/github-readme-stats)
+![MK Mlakea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKMaleka)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaleka&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaleka&layout=donut)
