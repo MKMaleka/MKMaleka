@@ -2,7 +2,7 @@
 
 
 ***
-I am a Test Analyst focused on Automation and Manual testing of the internal tool.
+I am a Junior Test Analyst focused on Automation and Manual testing of the internal tool.
 
 Part-time; I am studying Software Development Course with CodeSpace. The course focuses on deployment and managing software in a production environment using Javascript.
 
