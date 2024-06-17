@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">, I am Maxwell Maleka!
+### Hi There <img src="https://github.com/MartinHeinz/MartinHeinz/blob/master/wave.gif" width="30px">, I am Maxwell Maleka!
 
 
 ***
