@@ -23,4 +23,4 @@ Part-time; I am studying Software Development Course with CodeSpace. The course 
 ***
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MKMaleka)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaleka&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MKMaleka&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
